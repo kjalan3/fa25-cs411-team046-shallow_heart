@@ -5,7 +5,7 @@
 |     Info     |       Description       |
 | ------------ | ----------------------- |
 | TeamID       | Team-046                |
-| TeamName     | shallow_mind            |
+| TeamName     | shallow_heart           |
 | Captain      | Kshitij Jalan           |
 | Captain      | kjalan3@illinois.edu    |
 | Member1      | Pei Hsieh               |
